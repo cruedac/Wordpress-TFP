@@ -15,6 +15,10 @@ post_date: 2018-09-18 19:32:57
 
 &nbsp;
 
+Edito la entrada
+
+&nbsp;
+
 &nbsp;
 
 [gallery ids="12"]
